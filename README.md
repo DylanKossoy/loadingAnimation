@@ -1,3 +1,3 @@
 # loadingAnimation
 
-simple loa
+simple loading animation I created
