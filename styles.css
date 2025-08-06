@@ -70,6 +70,7 @@ body {
     0%, 100% {
         opacity: 100%;
         transform: scale(1);
+        transform: translateY(0)
         
        
         
@@ -78,19 +79,23 @@ body {
     20% {
         opacity: 20%;
         transform: scale(.8);
-        transform: translateY(-10px);
+      
+        
+    }
+
+    40% {
     }
     
-    50% {
-        opacity: 50%;
-        transform: translateY(-10px);
+    60% {
         
+        transform: translateY(-50px);
+
     }
     
     80% {
         opacity: 80%;
-       
+      
     }
-    
-    
+
+
 }
