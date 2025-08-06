@@ -1,3 +1,3 @@
 # loadingAnimation
 
-si
+simple loa
